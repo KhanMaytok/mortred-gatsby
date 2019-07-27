@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Universo Maytok`,
+    author: `Giancarlo Ventura`,
+    description: `El sitio que contiene todo lo relacionado al Universo Maytok`,
+    siteUrl: `https://alpha.maytok.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `khanmaytok`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Universo Maytok`,
+        short_name: `Maytok-Verse`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
